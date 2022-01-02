@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1641144524 source:c:\users\admin\documents\mycprogram_2\advance_pro\main.cpp
+	<iostream>
+	"hashTable.h"
+
+1641143325 c:\users\admin\documents\mycprogram_2\advance_pro\include\hashtable.h
+	<list>
+	<iostream>
+	<cstring>
+	<string>
+
+1641144239 source:c:\users\admin\documents\mycprogram_2\advance_pro\src\hashtable.cpp
+	"hashTable.h"
+
+1641145765 source:c:\users\admin\documents\mycprogram_2\advance_pro\hashtable.cpp
+	"hashTable.h"
+
+1641145802 c:\users\admin\documents\mycprogram_2\advance_pro\hashtable.h
+	<list>
+	<iostream>
+	<cstring>
+	<string>
+
